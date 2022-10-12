@@ -8,7 +8,7 @@ Pontos de Melhorias:
 - Criar um swagger para entender melhor os endpoints;
 Se quiserem compartilhar mais coisas só ir adicionando aqui, não sei se vai dar tempo de tocarmos essas melhorias.
 
-Fala ainda:
+Falta ainda:
 - A parte da marcação de horários pelo usuário e um endpoint para mostrar os horários marcados pro profissional.
 
 Pontos Importantes:
